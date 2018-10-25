@@ -1,8 +1,7 @@
 # smile_detector
 
-A new Flutter project.
+An android/ios app which uses firebase ml kit in flutter and detects faces and smile 
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For android developers,refer to android folder, for ios developers refer to ios folder
